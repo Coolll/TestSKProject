@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>anzhuangshandiandonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {494, 371}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{500, 375}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 375}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{744, 1670}, {500, 375}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>daoguangdonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 8}, {476, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{480, 192}</string>
+			<key>spriteSourceSize</key>
+			<string>{480, 192}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1446, 966}, {480, 192}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>deathAnimation.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 6}, {398, 314}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{400, 320}</string>
+			<key>spriteSourceSize</key>
+			<string>{400, 320}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{996, 664}, {400, 320}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huogongdonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {420, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{420, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{420, 168}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1446, 1160}, {420, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huoshadonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {478, 572}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{480, 576}</string>
+			<key>spriteSourceSize</key>
+			<string>{480, 576}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{482, 1092}, {480, 576}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>jiaxuedonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {452, 360}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{480, 384}</string>
+			<key>spriteSourceSize</key>
+			<string>{480, 384}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{514, 664}, {480, 384}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>jinnangdonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 15}, {708, 550}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{720, 576}</string>
+			<key>spriteSourceSize</key>
+			<string>{720, 576}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {720, 576}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>jiudonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {512, 512}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{512, 512}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 512}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 578}, {512, 512}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>jiushadonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 6}, {392, 292}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{400, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{400, 300}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1398, 664}, {400, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>leishadonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 7}, {464, 664}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{480, 672}</string>
+			<key>spriteSourceSize</key>
+			<string>{480, 672}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1092}, {480, 672}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>meitexiao.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {331, 286}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{333, 288}</string>
+			<key>spriteSourceSize</key>
+			<string>{333, 288}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1246, 1648}, {333, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>nanmanruqindonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {346, 202}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{350, 210}</string>
+			<key>spriteSourceSize</key>
+			<string>{350, 210}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{964, 1436}, {350, 210}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>renwangdundonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {480, 378}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{480, 384}</string>
+			<key>spriteSourceSize</key>
+			<string>{480, 384}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{964, 1050}, {480, 384}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>shadonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {662, 634}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{662, 662}</string>
+			<key>spriteSourceSize</key>
+			<string>{662, 662}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1386, 0}, {662, 662}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>shandonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 8}, {648, 638}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{662, 662}</string>
+			<key>spriteSourceSize</key>
+			<string>{662, 662}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{722, 0}, {662, 662}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>shuiyanqijuntexiao.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 8}, {390, 272}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{390, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{390, 280}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1766}, {390, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>tiesuolianhuandonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {467, 267}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{467, 267}</string>
+			<key>spriteSourceSize</key>
+			<string>{467, 267}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1581, 1648}, {467, 267}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>wanjianqifadonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {344, 204}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{350, 210}</string>
+			<key>spriteSourceSize</key>
+			<string>{350, 210}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1316, 1436}, {350, 210}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>wuxiekejidonghua.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {346, 272}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{350, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{350, 280}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{392, 1766}, {350, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>textureFileName</key>
+		<string>animation_default.png</string>
+		<key>version</key>
+		<string>1.5.1</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>animation.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>animation_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

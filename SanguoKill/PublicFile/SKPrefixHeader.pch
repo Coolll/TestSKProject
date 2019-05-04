@@ -1,0 +1,15 @@
+//
+//  SKPrefixHeader.pch
+//  SanguoKill
+//
+//  Created by 龙培 on 2019/5/4.
+//  Copyright © 2019年 龙培. All rights reserved.
+//
+
+#ifndef SKPrefixHeader_pch
+#define SKPrefixHeader_pch
+
+#import "Masonry.h"
+#import "PublicHelper.h"
+
+#endif /* SKPrefixHeader_pch */
